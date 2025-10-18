@@ -21,7 +21,7 @@ The motivation is that edge devices often store valuable AI models locally, and 
 
 ---
 
-## 🚀 Future Directions (Not in the Paper)
+## Future Directions (Not in the Paper)
 
 ### 1. Make NeuroScope Better
 - Try to make it work **faster** and analyze models while they are running.  
