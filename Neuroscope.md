@@ -51,7 +51,7 @@ The motivation is that edge devices often store valuable AI models locally, and 
 
 ---
 
-## 💡 Personal Reflection
+## Personal Reflection
 I found this paper very interesting because it shows how **model privacy** can be compromised even on local devices. It’s a good reminder that protecting AI models requires not just encryption, but also runtime protection.
 
 ---
