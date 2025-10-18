@@ -13,4 +13,4 @@ Each paper includes:
 
 | Date | Title | Category | Link |
 |------|--------|-----------|------|
-| 2025-10-18 | NeuroScope: Reverse Engineering Deep Neural Network on Edge Devices | AI Security | [Read]([papers/2025-10-18-neuroscope.md](https://www.usenix.org/system/files/usenixsecurity25-wu-ruoyu.pdf) |
+| 2025-10-18 | NeuroScope: Reverse Engineering Deep Neural Network on Edge Devices | AI Security | [Read](https://www.usenix.org/system/files/usenixsecurity25-wu-ruoyu.pdf) |
